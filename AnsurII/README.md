@@ -8,7 +8,6 @@ This project explores the predictive power of anthropometric data using the **AN
 
 - ✅ Cleaned and analyzed **6,000+ samples** of real military anthropometric data  
 - ⚖️ Handled **class imbalance** and missing values  
-- 🔍 Selected top features using **ANOVA F-score** and **Mutual Information**  
 - 🤖 Trained multiple ML models: **Logistic Regression**, **SVM**, **Random Forest**, **XGBoost**, and **LightGBM**  
 - 📊 Evaluated performance using **accuracy**, **F1-score**, **ROC-AUC**, and **confusion matrices**  
 - 🧠 Visualized model explainability using **SHAP (SHapley Additive exPlanations)**  
