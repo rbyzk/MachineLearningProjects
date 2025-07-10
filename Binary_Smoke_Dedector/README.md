@@ -1,4 +1,4 @@
-# 🚬 AUC Boosting: Binary Smoking Detection from Health Checkups
+# 🔥 AUC Boosting: Binary Smoking Detection from Health Checkups
 
 This project tackles the binary classification of smoking status based on health examination records. Using a combination of classical ML models and boosting algorithms, we aim to accurately predict whether an individual is a smoker.
 
