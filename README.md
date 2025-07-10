@@ -32,8 +32,8 @@ All notebooks are built with Python and written to be educational, reproducible,
 To explore the repository on your local machine:
 
 ```bash
-git clone https://github.com/yourusername/deeplearningprojects.git
-cd deeplearningprojects
+git clone https://github.com/rbyzk/MachineLearningProjects.git
+cd deeplearningprojects  
 ```
 
 ## 🤝 Contributing
