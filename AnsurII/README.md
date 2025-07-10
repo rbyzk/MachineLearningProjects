@@ -50,7 +50,7 @@ To demonstrate how **anthropometric features** can inform predictive modeling �
 
 ## ⬇️ Installation & Exploration  
 
-📘 Kaggle Notebook: [ AI-SAFE:Smart Safety Monitoring with YOLOv8](https://www.kaggle.com/code/beyzakucuk/ethnicity-prediction-from-body-metrics-ansur-ii)
+📘 Kaggle Notebook: [Ethnicity Prediction from Body Metrics - ANSUR II](https://www.kaggle.com/code/beyzakucuk/ethnicity-prediction-from-body-metrics-ansur-ii)
 
 If you found this project insightful or valuable, feel free to **👍 UPVOTE** and leave a comment — your feedback is always welcome!
 
