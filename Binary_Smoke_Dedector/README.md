@@ -61,35 +61,30 @@ To apply supervised machine learning techniques for **predicting smoking behavio
 
 ---
 
-⬇️ Installation  
-To explore this notebook online, visit my Kaggle profile.  
-If you find this project helpful or inspiring, please give it an **👍 UPVOTE** and join the discussion!
+## ⬇️ Installation & Exploration  
 
 📘 Kaggle Notebook: [AUC Boosting – Binary Smoking Detection](https://www.kaggle.com/code/beyzakucuk/auc-boosting-binary-smoking-detection)
 
+If you found this project insightful or valuable, feel free to **👍 UPVOTE** and leave a comment — your feedback is always welcome!
 
 ---
 
-🤝 Contributing  
+## 🤝 Contributing  
 Contributions are always welcome!  
 If you have suggestions, improvements, or want to collaborate, feel free to **fork this repo** and submit a pull request.
 
 ---
 
-🌱 About Me  
-I'm **Beyza Küçük** — a **Data Scientist & Data Analyst**, passionate about building ML/DL solutions that are interpretable, effective, and impactful.
+## 👩‍💻 About Me
 
-📬 You can find more about me and my work through the following platforms:
+I'm **Beyza Küçük** — a **Data Scientist & Data Analyst**, passionate about building ML/DL solutions that are interpretable, effective, and impactful.
 
 - 🌐 **Kaggle**: [kaggle.com/beyzakucuk](https://www.kaggle.com/beyzakucuk)  
 - 💻 **GitHub**: [github.com/beyzakucuk](https://github.com/beyzakucuk)  
 
 ---
-
-🎯 Let’s grow together in the world of machine learning and AI.  
+ 
 ✨ If this repository was helpful, please give it a ⭐ star and share it with others.
-
-Keep coding and learning! 💡🚀
 
 ---
 
