@@ -40,7 +40,7 @@ Contributions are welcome! If you'd like to add tutorials, fix typos, or share u
 
 
 ## 👩‍💻 About Me
-Hi, I'm Beyza Küçük — a data science enthusiast passionate about building interpretable models and making complex topics accessible through hands-on projects and clear visualizations.
+I'm Beyza Küçük — a Data Scientist & Data Analyst, passionate about building ML/DL solutions that are interpretable, effective, and impactful.
 
 
 ## 🌐 Let's connect and grow together in data:
