@@ -33,7 +33,6 @@ To explore the repository on your local machine:
 
 ```bash
 git clone https://github.com/rbyzk/MachineLearningProjects.git
-cd deeplearningprojects  
 ```
 
 ## 🤝 Contributing
