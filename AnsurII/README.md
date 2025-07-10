@@ -52,7 +52,7 @@ To demonstrate how **anthropometric features** can inform predictive modeling �
 ## 🧠 Author
 
 **Beyza Küçük**  
-Data Science & ML Enthusiast  
+Data Scientist & Data Analyst 
 📍 [Kaggle Profile](https://www.kaggle.com/beyzakucuk)
 
 ---
