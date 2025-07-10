@@ -66,8 +66,7 @@ To apply supervised machine learning techniques for **predicting smoking behavio
 **Beyza Küçük**  
 *Data Scientist & Data Analyst*
 
-- [GitHub](https://github.com/rbyzk)  
-- [Kaggle](https://www.kaggle.com/beyzakucuk)
+📍 [Kaggle Profile](https://www.kaggle.com/beyzakucuk)
 
 ---
 
