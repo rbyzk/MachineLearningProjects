@@ -49,11 +49,16 @@ I'm Beyza Küçük — a Data Scientist & Data Analyst, passionate about buildin
 
 **Kaggle** [kaggle.com/beyzakucuk](https://www.kaggle.com/beyzakucuk)
 
+
 ✨ If you find this repository helpful, please give it a ⭐ and share with others who might benefit!
+
 
 
 Keep learning and coding! 🚀
 ---
 
+
+
 ## 📜 License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
+
