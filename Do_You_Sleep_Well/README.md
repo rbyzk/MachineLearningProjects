@@ -18,12 +18,6 @@ The goal is to turn sleep-related data into **interpretable and decision-ready i
 
 ---
 
-## 🖼️ Project Preview
-
-![Do You Sleep Well](Do_You_Sleep_Well/sleep.jpeg)
-
----
-
 ## 📁 Dataset: Sleep Health & Lifestyle
 
 * 👥 **Subjects**: 374 individuals
