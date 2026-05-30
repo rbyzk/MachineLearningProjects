@@ -67,7 +67,7 @@ If you have suggestions, improvements, or want to collaborate, feel free to **fo
 I'm **Beyza Küçük** — a **Data Scientist & Data Analyst**, passionate about building ML/DL solutions that are interpretable, effective, and impactful.
 
 - 🌐 **Kaggle**: [kaggle.com/beyzakucuk](https://www.kaggle.com/beyzakucuk)  
-- 💻 **GitHub**: [github.com/beyzakucuk](https://github.com/beyzakucuk)  
+- 💻 **GitHub**: [github.com/beyzakucuk](https://github.com/rbyzk)  
 
 ---
  
